@@ -1,0 +1,10 @@
+//
+// Created by ggarrett on 06-05-20.
+//
+
+#ifndef PERFORMANCE_PYBIND11_TEST_FUNCTION_H
+#define PERFORMANCE_PYBIND11_TEST_FUNCTION_H
+
+int fib(int n);
+
+#endif //PERFORMANCE_PYBIND11_TEST_FUNCTION_H
